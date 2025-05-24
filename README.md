@@ -2,7 +2,7 @@
 
 This project implements a machine learning pipeline to predict breast cancer diagnosis (benign or malignant) based on features extracted from breast mass images. It aims to support early diagnosis and improve decision-making in medical analysis.
 
-## 🧪 Dataset
+##  📁 Dataset
 
 The project uses the Breast Cancer Wisconsin (Diagnostic) dataset, which includes:
 
@@ -32,17 +32,14 @@ These features are computed from a digitized image of a fine needle aspirate (FN
 3. **Model Training**:
    - Logistic Regression
    - K-Nearest Neighbors (KNN)
-   - Support Vector Machine (SVM)
-   - Random Forest
 
 4. **Model Evaluation**:
    - Accuracy, Precision, Recall, F1 Score
    - Confusion Matrix
-   - ROC-AUC Curve
 
 ## 📈 Results
 
 - Compared performance of multiple classifiers
-- Selected the best model based on accuracy and AUC score
+- Selected the best model based on accuracy 
 - Achieved high accuracy in detecting malignant vs. benign cases
 
